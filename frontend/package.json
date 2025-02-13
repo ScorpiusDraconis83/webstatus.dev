@@ -32,7 +32,7 @@
     "@open-wc/testing": "^4.0.0",
     "@rollup/plugin-node-resolve": "^16.0.0",
     "@rollup/plugin-terser": "^0.4.4",
-    "@types/chai": "^4.3.19",
+    "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.10",
     "@types/node": "^22.9.0",
     "@types/webstatus.dev-backend": "file:../lib/gen/openapi/ts-webstatus.dev-backend-types",
@@ -53,8 +53,8 @@
     "lit-analyzer": "^2.0.2",
     "openapi-typescript-helpers": "^0.0.15",
     "playwright": "^1.47.2",
-    "prettier": "3.4.2",
-    "rollup": "^4.34.4",
+    "prettier": "3.5.0",
+    "rollup": "^4.34.6",
     "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-css-only": "^4.5.2",
     "sinon": "^19.0.2",
@@ -67,7 +67,7 @@
     "@shoelace-style/shoelace": "^2.20.0",
     "@types/google.visualization": "^0.0.74",
     "@vaadin/router": "^2.0.0",
-    "firebase": "^11.2.0",
+    "firebase": "^11.3.0",
     "lit": "^3.2.1",
     "openapi-fetch": "^0.13.4"
   }
